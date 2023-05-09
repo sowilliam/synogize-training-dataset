@@ -1,4 +1,4 @@
-id,age,education,marital_status,income,children_at_home,year_since_enrollment,days_since_last_purchase,total_spend,pct_spent_wine,pct_spent_fruits,pct_spent_meat,pct_spent_fish,pct_spent_sweets,pct_spent_gold,pct_purchase_discounted,pct_purchase_web,pct_purchase_catalogue,pct_purchase_store,total_purchase,avg_spent_purchase
+id,age,education,marital_status,income,children_at_home,year_since_enrollment,days_since_last_purchase,total_spent,pct_spent_wine,pct_spent_fruits,pct_spent_meat,pct_spent_fish,pct_spent_sweets,pct_spent_gold,pct_purchase_discounted,pct_purchase_web,pct_purchase_catalogue,pct_purchase_store,total_purchase,avg_spent_purchase
 5524,63,Bachelor,Single,58138,0,3,58,1617,0.392702536,0.054421769,0.337662338,0.106369821,0.054421769,0.054421769,0.136363636,0.363636364,0.454545455,0.181818182,22,73.5
 2174,66,Bachelor,Single,46344,2,1,38,27,0.407407407,0.037037037,0.222222222,0.074074074,0.037037037,0.222222222,0.5,0.25,0.25,0.5,4,6.75
 4141,55,Bachelor,Together,71613,0,2,26,776,0.548969072,0.06314433,0.163659794,0.143041237,0.027061856,0.054123711,0.05,0.4,0.1,0.5,20,38.8
