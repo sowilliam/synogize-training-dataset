@@ -1,4 +1,4 @@
-Suburb,Address,Rooms,Type,Price,Method,SellerG,Date,Distance,Bathroom,Car,CouncilArea
+suburb,address,room,type,price,method,seller,date,distance,bathroom,car,council_area
 Abbotsford,85 Turner St,2,h,1480000,S,Biggin,3/12/2016,2.5,1,1,Yarra City Council
 Abbotsford,25 Bloomburg St,2,h,1035000,S,Biggin,4/2/2016,2.5,1,0,Yarra City Council
 Abbotsford,5 Charles St,3,h,1465000,SP,Biggin,4/3/2017,2.5,2,0,Yarra City Council
